@@ -1,1 +1,1 @@
-# lindatran27.github.io
+This is my Rock-Paper-Scissors game!
